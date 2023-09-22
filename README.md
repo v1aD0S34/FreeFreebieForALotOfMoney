@@ -17,8 +17,8 @@
 
 
 
-2. 🎥 [Лекция 2 (Базовая): Командная строка. Bash](https://www.youtube.com/watch?v=dQw4w9WgXcQ ) <br>
-   🎥 [Лекция 2 (Для крутых): Командная строка. Bash]( https://www.youtube.com/watch?v=dQw4w9WgXcQ) <br>
+2. 🎥 [Лекция 2 (Базовая): Командная строка. Bash](https://www.youtube.com/watch?v=C3QmYVf20ZU) <br>
+   🎥 [Лекция 2 (Для крутых): Командная строка. Bash](https://www.youtube.com/watch?v=LY_3gneHPEM) <br>
    📄 [Презентация Лекции 2 (Базовая)](/2-lesson.CommandLine.Bash/02.base_bash.pptx) <br>
    📄 [Презентация Лекции 2 (Для крутых)](2-lesson.CommandLine.Bash/02.adv_bash.pptx) <br>
 ---
