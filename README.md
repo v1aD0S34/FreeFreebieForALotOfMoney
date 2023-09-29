@@ -24,9 +24,16 @@
 ---
 
    
-3. 🎥 [Лекция 3 (Базовая): Пока хз](https://www.youtube.com/watch?v=dQw4w9WgXcQ ) <br>
-   🎥 [Лекция 3 (Для крутых): Пока хз]( https://www.youtube.com/watch?v=dQw4w9WgXcQ) <br>
-   📄 [Презентация Лекции 2](1-lesson.AboutTheCourse)
+3. 🎥 [Лекция 3 (Базовая): SSH. VCS. tmux](https://www.youtube.com/watch?v=dQw4w9WgXcQ ) <br>
+   🎥 [Лекция 3 (Для крутых): SSH. VCS. tmux]( https://youtu.be/kavt51_nNoo) <br>
+   📄 [Презентация Лекции 3 (Базовая)](/3-lesson.VersionControlSystems.Git01/03.adv_ssh_tmux_git.pptx) <br>
+   📄 [Презентация Лекции 3 (Для крутых)](/3-lesson.VersionControlSystems.Git01/03.adv_ssh_tmux_git.pptx) <br>
+   
+---
+
+3. 🎥 [Лекция 4 (Базовая): Пока хз](https://www.youtube.com/watch?v=dQw4w9WgXcQ ) <br>
+   🎥 [Лекция 4 (Для крутых): Пока хз]( https://www.youtube.com/watch?v=dQw4w9WgXcQ) <br>
+   📄 [Презентация Лекции 4](1-lesson.AboutTheCourse)
 
 ---
 
