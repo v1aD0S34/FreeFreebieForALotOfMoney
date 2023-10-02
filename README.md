@@ -24,9 +24,9 @@
 ---
 
    
-3. 🎥 [Лекция 3 (Базовая): SSH. VCS. tmux](https://www.youtube.com/watch?v=dQw4w9WgXcQ ) <br>
+3. 🎥 [Лекция 3 (Базовая): SSH. VCS. tmux](https://youtu.be/xgqdBBTnu2Y ) <br>
    🎥 [Лекция 3 (Для крутых): SSH. VCS. tmux]( https://youtu.be/kavt51_nNoo) <br>
-   📄 [Презентация Лекции 3 (Базовая)](/3-lesson.VersionControlSystems.Git01/03.adv_ssh_tmux_git.pptx) <br>
+   📄 [Презентация Лекции 3 (Базовая)](/3-lesson.VersionControlSystems.Git01/03.base_ssh_tmux.pptx) <br>
    📄 [Презентация Лекции 3 (Для крутых)](/3-lesson.VersionControlSystems.Git01/03.adv_ssh_tmux_git.pptx) <br>
    
 ---
