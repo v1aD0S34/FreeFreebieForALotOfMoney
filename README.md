@@ -30,9 +30,15 @@
    📄 [Презентация Лекции 3 (Для крутых)](/3-lesson.VersionControlSystems.Git01/03.adv_ssh_tmux_git.pptx) <br>
    
 ---
-
-3. 🎥 [Лекция 4 (Базовая): Пока хз](https://www.youtube.com/watch?v=dQw4w9WgXcQ ) <br>
-   🎥 [Лекция 4 (Для крутых): Пока хз]( https://www.youtube.com/watch?v=dQw4w9WgXcQ) <br>
+   
+4. 🎥 [Лекция 4 (Базовая): Системы контроля версий Git](https://youtu.be/VTrhFaMMKtg) <br>
+   🎥 [Лекция 4 (Для крутых): дописать]( https://youtu.be/kavt51_nNoo) <br>
+   📄 [Презентация Лекции 4 (Базовая)](/4-lesson(base).VersionControlSystems.Git01/04.base_git.pptx) <br>
+   📄 [Презентация Лекции 4 (Для крутых)](/4-lesson(cool).BuildingPackages.wheel/) <br>
+   
+---
+5. 🎥 [Лекция 5 (Базовая): Пока хз](https://www.youtube.com/watch?v=dQw4w9WgXcQ ) <br>
+   🎥 [Лекция 5 (Для крутых): Пока хз]( https://www.youtube.com/watch?v=dQw4w9WgXcQ) <br>
    📄 [Презентация Лекции 4](1-lesson.AboutTheCourse)
 
 ---
