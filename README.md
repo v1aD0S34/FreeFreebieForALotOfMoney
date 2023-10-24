@@ -33,11 +33,15 @@
    📄 [Презентация Лекции 5 (Базовая)](https://www.youtube.com/watch?v=dQw4w9WgXcQ) <br>
    📄 [Презентация Лекции 5 (Для крутых)](/https://www.youtube.com/watch?v=dQw4w9WgXcQ) <br> 
 --- 
+6. 🎥 [Лекция 6 (Базовая): Сборка пакетов wheel](https://youtu.be/VtKcAQ19h9I) <br>
+   🎥 [Лекция 6 (Для крутых): Введение в Docker](https://youtu.be/hWmBR2Az7CI) <br>
+   📄 [Презентация Лекции 6 (Базовая)](/6-lesson(base).Containerization.Docker/06.adv_intro_to_docker.pptx) <br>
+   📄 [Презентация Лекции 6 (Для крутых)](/6-lesson(cool).Containerization.DockerAdvanced.Podman/05.adv_intro_to_docker.pptx) <br> 
+--- 
 
-
-6. 🎥 [Лекция 6 (Базовая): Пока хз](https://www.youtube.com/watch?v=dQw4w9WgXcQ ) <br>
-   🎥 [Лекция 6 (Для крутых): Пока хз]( https://www.youtube.com/watch?v=dQw4w9WgXcQ) <br>
-   📄 [Презентация Лекции 6](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+7. 🎥 [Лекция 7 (Базовая): Пока хз](https://www.youtube.com/watch?v=dQw4w9WgXcQ ) <br>
+   🎥 [Лекция 7 (Для крутых): Пока хз]( https://www.youtube.com/watch?v=dQw4w9WgXcQ) <br>
+   📄 [Презентация Лекции 7](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 ---
 
