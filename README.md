@@ -33,15 +33,20 @@
    📄 [Презентация Лекции 5 (Базовая)](https://www.youtube.com/watch?v=dQw4w9WgXcQ) <br>
    📄 [Презентация Лекции 5 (Для крутых)](/https://www.youtube.com/watch?v=dQw4w9WgXcQ) <br> 
 --- 
-6. 🎥 [Лекция 6 (Базовая): Контейнеризация Docker advanced](https://youtu.be/VtKcAQ19h9I) <br>
+6. 🎥 [Лекция 6 (Базовая): Контейнеризация Docker advanced](https://youtu.be/8uICMH7o8oE) <br>
    🎥 [Лекция 6 (Для крутых): Введение в Docker](https://youtu.be/hWmBR2Az7CI) <br>
    📄 [Презентация Лекции 6 (Базовая)](/6-lesson(base).Containerization.Docker/06.adv_intro_to_docker.pptx) <br>
    📄 [Презентация Лекции 6 (Для крутых)](/6-lesson(cool).Containerization.DockerAdvanced.Podman/05.adv_intro_to_docker.pptx) <br> 
 --- 
 
-7. 🎥 [Лекция 7 (Базовая): Пока хз](https://www.youtube.com/watch?v=dQw4w9WgXcQ ) <br>
-   🎥 [Лекция 7 (Для крутых): Пока хз]( https://www.youtube.com/watch?v=dQw4w9WgXcQ) <br>
-   📄 [Презентация Лекции 7](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+7. 🎥 [Лекция 7 (Базовая): Контейнеризация Docker advanced](https://youtu.be/9adMgAIA0No) <br>
+   🎥 [Лекция 7 (Для крутых): Контейнеризация. Docker advanced  Podman, часть 1](https://youtu.be/o4fNZUwAfH4) <br>
+   🎥 [Лекция 7 (Для крутых): Контейнеризация. Docker advanced  Podman, часть 2](https://youtu.be/AhR0pmhnbLc) <br>
+--- 
+
+8. 🎥 [Лекция 8 (Базовая): Пока хз](https://www.youtube.com/watch?v=dQw4w9WgXcQ ) <br>
+   🎥 [Лекция 8 (Для крутых): Пока хз]( https://www.youtube.com/watch?v=dQw4w9WgXcQ) <br>
+   📄 [Презентация Лекции 8](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 ---
 
