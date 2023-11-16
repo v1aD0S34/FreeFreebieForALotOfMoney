@@ -38,17 +38,24 @@
    📄 [Презентация Лекции 6 (Базовая)](/6-lesson(base).Containerization.Docker/06.adv_intro_to_docker.pptx) <br>
    📄 [Презентация Лекции 6 (Для крутых)](/6-lesson(cool).Containerization.DockerAdvanced.Podman/05.adv_intro_to_docker.pptx) <br> 
 --- 
-
 7. 🎥 [Лекция 7 (Базовая): Контейнеризация Docker advanced](https://youtu.be/9adMgAIA0No) <br>
    🎥 [Лекция 7 (Для крутых): Контейнеризация. Docker advanced  Podman, часть 1](https://youtu.be/o4fNZUwAfH4) <br>
    🎥 [Лекция 7 (Для крутых): Контейнеризация. Docker advanced  Podman, часть 2](https://youtu.be/AhR0pmhnbLc) <br>
 --- 
+8. 🎥 [Лекция 8 (Базовая): Виртуализация VirtualBox.Vagrant](https://youtu.be/EjFDE4-xUBY) <br>
+   🎥 [Лекция 8 (Для крутых): Виртуализация VirtualBox.Vagrant](https://youtu.be/yBkcBpfB1MQ) <br>
+--- 
+9. 🎥 [Лекция 9 (Базовая): Ansible](https://youtu.be/Nc9T7FSbdGE) <br>
+   🎥 [Лекция 9 (Для крутых): Ansible](https://youtu.be/lqM7jsmOJd4) <br>
+--- 
 
-8. 🎥 [Лекция 8 (Базовая): Пока хз](https://www.youtube.com/watch?v=dQw4w9WgXcQ ) <br>
-   🎥 [Лекция 8 (Для крутых): Пока хз]( https://www.youtube.com/watch?v=dQw4w9WgXcQ) <br>
-   📄 [Презентация Лекции 8](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+0. 🎥 [Лекция х (Базовая): Пока хз](https://www.youtube.com/watch?v=dQw4w9WgXcQ ) <br>
+   🎥 [Лекция х (Для крутых): Пока хз]( https://www.youtube.com/watch?v=dQw4w9WgXcQ) <br>
+   📄 [Презентация Лекции х](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 ---
+
+
 
 
 <!-- http://wiki.atp-fivt.org/index.php/ТПОС_2023 -->
