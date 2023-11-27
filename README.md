@@ -43,12 +43,15 @@
    🎥 [Лекция 7 (Для крутых): Контейнеризация. Docker advanced  Podman, часть 2](https://youtu.be/AhR0pmhnbLc) <br>
 --- 
 8. 🎥 [Лекция 8 (Базовая): Виртуализация VirtualBox.Vagrant](https://youtu.be/EjFDE4-xUBY) <br>
-   🎥 [Лекция 8 (Для крутых): Виртуализация VirtualBox.Vagrant](https://youtu.be/yBkcBpfB1MQ) <br>
+   🎥 [Лекция 8 (Для крутых): Виртуализация VirtualBox.Vagrant](https://youtu.be/yBkcBpfB1MQ)<br>
+   📄 [Презентация Лекции 8 (Для крутых)](/8-lesson(cool).Virtualization.VirtualBox.Vagrant/07.adv_vagrant.pptx) <br> 
 --- 
-9. 🎥 [Лекция 9 (Базовая): Ansible](https://youtu.be/Nc9T7FSbdGE) <br>
-   🎥 [Лекция 9 (Для крутых): Ansible](https://youtu.be/lqM7jsmOJd4) <br>
+9. 🎥 [Лекция 9 (Базовая): Ansible](https://youtu.be/c76RDvZYs4Q) <br>
+   🎥 [Лекция 9 (Для крутых): Ansible](https://youtu.be/2GiD4NRgBpY) <br>
+   📄 [Презентация Лекции 9 (Базовая)](/9-lesson(base).Ansible/08_ansible_base.pptx) <br>
+   📄 [Презентация Лекции 9 (Для крутых)](/9-lesson(cool).Ansible/08_ansible.pptx) <br> 
+ 
 --- 
-
 0. 🎥 [Лекция х (Базовая): Пока хз](https://www.youtube.com/watch?v=dQw4w9WgXcQ ) <br>
    🎥 [Лекция х (Для крутых): Пока хз]( https://www.youtube.com/watch?v=dQw4w9WgXcQ) <br>
    📄 [Презентация Лекции х](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
