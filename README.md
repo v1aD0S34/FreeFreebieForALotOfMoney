@@ -50,7 +50,17 @@
    🎥 [Лекция 9 (Для крутых): Ansible](https://youtu.be/2GiD4NRgBpY) <br>
    📄 [Презентация Лекции 9 (Базовая)](/9-lesson(base).Ansible/08_ansible_base.pptx) <br>
    📄 [Презентация Лекции 9 (Для крутых)](/9-lesson(cool).Ansible/08_ansible.pptx) <br> 
- 
+ --- 
+10. 
+     🎥 [Лекция 10 (Для крутых):  GitLab CI](https://youtu.be/q0vuppuWX74) <br>
+--- 
+
+---
+
+---
+
+11. 
+     🎥 [Лекция 11: Введение в Kubernetes](https://youtu.be/mrdsqani5dM) <br>
 --- 
 0. 🎥 [Лекция х (Базовая): Пока хз](https://www.youtube.com/watch?v=dQw4w9WgXcQ ) <br>
    🎥 [Лекция х (Для крутых): Пока хз]( https://www.youtube.com/watch?v=dQw4w9WgXcQ) <br>
