@@ -54,14 +54,26 @@
 10. 
      🎥 [Лекция 10 (Для крутых):  GitLab CI](https://youtu.be/q0vuppuWX74) <br>
 --- 
-
 ---
-
 ---
-
 11. 
      🎥 [Лекция 11: Введение в Kubernetes](https://youtu.be/mrdsqani5dM) <br>
 --- 
+12. 
+     🎥 [Лекция 12: Namespace, Controllers, Network, Storage](https://youtu.be/58MFEJiHY1E) <br>
+--- 
+13. 
+     🎥 [Лекция 13: Helm, Gitlab ,Ci CD часть 1](https://youtu.be/wUkPqTvfglw) <br>
+--- 
+
+14. 
+     🎥 [Лекция 14: Helm, Gitlab ,Ci CD часть 2](https://youtu.be/hD-EE0rZ__8) <br>
+--- 
+15. 
+     🎥 [Лекция 15: Мониторинг и логирование](https://youtu.be/ppQk1x7uqcc) <br>
+--- 
+
+
 0. 🎥 [Лекция х (Базовая): Пока хз](https://www.youtube.com/watch?v=dQw4w9WgXcQ ) <br>
    🎥 [Лекция х (Для крутых): Пока хз]( https://www.youtube.com/watch?v=dQw4w9WgXcQ) <br>
    📄 [Презентация Лекции х](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
