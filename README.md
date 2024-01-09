@@ -64,15 +64,20 @@
 --- 
 13. 
      🎥 [Лекция 13: Helm, Gitlab ,Ci CD часть 1](https://youtu.be/wUkPqTvfglw) <br>
+     📄 [Презентация Лекции 13 ](/13-lesson.Helm,%20Gitlab%20,Ci%20CD/Лекция3.Kubernetes.Helm,Gitlab,Ci_CD.pdf) <br> 
 --- 
-
 14. 
      🎥 [Лекция 14: Helm, Gitlab ,Ci CD часть 2](https://youtu.be/hD-EE0rZ__8) <br>
+     📄 [Презентация Лекции 14 ](/13-lesson.Helm,%20Gitlab%20,Ci%20CD/Лекция3.Kubernetes.Helm,Gitlab,Ci_CD.pdf) <br> 
 --- 
 15. 
      🎥 [Лекция 15: Мониторинг и логирование](https://youtu.be/ppQk1x7uqcc) <br>
+     📄 [Презентация Лекции 15 ](/15-lesson.Monitoring/Лекция_4_Мониторинг_и_логирование.pdf) <br> 
 --- 
-
+16. 
+     🎥 [Лекция 16: Configurations, Rbac](https://youtu.be/qg7XydhQZZY) <br>
+     📄 [Презентация Лекции 16 ](/16-lesson.Configurations,Rbac/Лекция5.Security.pdf) <br> 
+--- 
 
 0. 🎥 [Лекция х (Базовая): Пока хз](https://www.youtube.com/watch?v=dQw4w9WgXcQ ) <br>
    🎥 [Лекция х (Для крутых): Пока хз]( https://www.youtube.com/watch?v=dQw4w9WgXcQ) <br>
